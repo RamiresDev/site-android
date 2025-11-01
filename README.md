@@ -1,5 +1,7 @@
 # 🌐 Site Android – Desafio de HTML e CSS
 
+![Preview do Site Android](imagens/responsibility.png)
+
 Projeto desenvolvido como parte dos desafios do curso **HTML5 e CSS3** (Curso em Vídeo – Gustavo Guanabara).
 
 O objetivo era criar uma página informativa sobre o sistema Android, aplicando conceitos de HTML semântico, CSS moderno e design responsivo.
